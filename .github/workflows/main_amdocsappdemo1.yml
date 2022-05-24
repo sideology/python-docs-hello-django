@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'amdocsappdemo1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0095764BEB174813938F934D3DD00212 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC1339271A094B678FFD3A9D322471C0 }}
